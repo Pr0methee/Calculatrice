@@ -1,6 +1,6 @@
 ## The Project :
 
-This project is a minimalist calculator made in java.
+This project is a minimalist calculator made in java. The main file is `Executable.java`.
 
 ## Folder Structure
 
